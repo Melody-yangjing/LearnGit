@@ -7,4 +7,5 @@ git diff 文件名=>查看文件的不同之处
 
 创建新分支dev
 
-hahha
+hahha解决冲突
+
